@@ -78,7 +78,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("const test= 100;\n\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("﻿    const test= 100; \r\n  \n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ })
 
